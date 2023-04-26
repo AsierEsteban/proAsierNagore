@@ -8,7 +8,7 @@ public class Prueba1 {
 		System.out.println("Tercero");
 		System.out.println("Cambio de Nagore");
 		System.out.println("Cambio de asier");
-		System.out.println("Cambio de nagore segundo");
+		System.out.println("Cambio de nagore segundo!");
 	}
 	
 }
