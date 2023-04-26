@@ -6,6 +6,7 @@ public class RamaPrueba {
 		// TODO Auto-generated method stub
 		System.out.println("Cambio de asier!");
 		System.out.println("Cambio en rama");
+		System.out.println("Cambio Nagore");
 	}
 
 }
